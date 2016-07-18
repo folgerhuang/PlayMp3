@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlayMp3</string>
+    <string name="btnPlay">播放音乐</string>
+    <string name="btnStop">停止播放</string>
+    <string name="btnPlayIntent">播放系统中的音乐</string>
+    <string name="btnPlayWithMediaPlay">使用MediaPlay播放音乐</string>
+</resources>
